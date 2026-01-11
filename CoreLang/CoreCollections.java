@@ -1,6 +1,6 @@
 package CoreLang;
-import static CoreLang.Core.*;
 
+import static CoreLang.Core.*;
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Map;

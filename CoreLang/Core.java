@@ -1,4 +1,5 @@
 package CoreLang;
+
 // This enum represents our tokens
 public enum Core {
 	// Keywords
