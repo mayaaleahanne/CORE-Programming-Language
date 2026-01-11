@@ -10,6 +10,6 @@ This repository consists of a tokenizer, a parser, and an interpreter for the CO
 
 ## Directions
 1. Locate file named "Main.java" and run it
-2. Enter the file path that contains your CORE program (Test cases for valid CORE programs can be found in the test cases folder)
+2. Enter the file path that contains your CORE program (Test cases for valid CORE programs can be found in the test cases folder. Files without "expectedoutput" at the end are the files to enter here. Check the case file that has "expectedoutput" at the end with the proper case number to see what the output is actually supposed to be.)
 3. Enter the file path that contains the values you want to read into the program (The file you'll want to run will be found in the test cases folder and will be named "input")
 4. Observe program output
